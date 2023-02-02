@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maindiv1{
+    margin: 10px;
+}
+.olximg{
+    width:5%;
+    height: 30px;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+.Div1A{
+    margin-left: 50px;
+    margin-top: 40px;
+    padding-top: 100px;
+    color: black;
+    font-size: 13px;
+}
+            /* olximg  */
+
+.maindiv2{
+    margin: 10px;
+    height: 50px;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+.div2img2{
+    width:5%;
+    height: 30px;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+.div2input{
+    width: 25%;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.div3input{
+    width: 50%;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.login{
+    margin-left: 20px;
+    color: black;
+}
+
+.color{
+
+    background-color: whitesmoke;
+    height: 150px;
+    
+   
+}
+
+.img{
+    height: 30px;
+    display: flex;
+    margin-left: 1100px;
+    margin-top: -50px;
+}
+
+.h42{
+
+    font-size: 15px;
+    margin-left: 110px;
+    padding-top: 30px;
+    
+}
+
+.flex{
+
+    display: flex;
+    gap: 50px;
+    margin-left: 250px;
+   list-style: none;
+   margin-top: -30px;
+   
+    
+}
+
+/* .span1{
+margin-left: ;
+} */
+
+.container22{
+    height: 200px;
+    background-color: red;
+    width: 20%;
+    list-style: none;
+    background-image: url(./321685320-240x180.jpeg);
+    cursor: pointer;
+    
+    
+}
+
+.container23{
+    height: 200px;
+    background-color: red;
+    width: 20%;
+    margin-left: 280px;
+    margin-top: -225px;
+    list-style: none;
+    background-image: url(./317662203-240x180.jpeg);
+    cursor: pointer;
+}
+
+.container24{
+    height: 200px;
+    background-color: red;
+    width: 20%;
+    margin-left: 560px;
+    margin-top: -225px;
+    list-style: none;
+    background-image: url(./319322796-240x180.jpeg);
+    cursor: pointer;
+}
+
+.container25{
+    height: 200px;
+    background-color: red;
+    width: 20%;
+    margin-left: 830px;
+    margin-top: -225px;
+    list-style: none;
+    background-image: url(./325568860-240x180.jpeg);
+    cursor: pointer;
+}
+
+.center{
+
+    margin-left: 70px !important;
+}
+
+.container26{
+    height: 150px;
+    /* background-color: whitesmoke; */
+    width: 20%;
+    list-style: none;
+    margin-top: -13px;
+    border: 1px solid black;
+    cursor: pointer;
+    
+
+}
+
+.container27{
+    height: 150px;
+    /* background-color: red; */
+    width: 20%;
+    margin-left: 280px;
+    margin-top: -151px;
+    list-style: none;
+    border: 1px solid black;
+    cursor: pointer;
+    }
+
+    .container28{
+        height: 150px;
+        /* background-color: red; */
+        width: 20%;
+        margin-left: 560px;
+        margin-top: -151px;
+        list-style: none;
+        border: 1px solid black;
+        cursor: pointer;
+        }
+
+        .container29{
+            height: 150px;
+            /* background-color: red; */
+            width: 20%;
+            margin-left: 830px;
+            margin-top: -151px;
+            list-style: none;
+            border: 1px solid black;
+            cursor: pointer;
+            }
+
+            .container30{
+                height: 200px;
+                background-color: red;
+                width: 20%;
+                list-style: none;
+                background-image: url(./325568833-240x180.jpeg);
+                cursor: pointer;
+                
+                
+            }
+    
+.container31{
+    height: 200px;
+    /* background-color: red; */
+    width: 20%;
+    margin-left: 280px;
+    margin-top: -200px;
+    list-style: none;
+    background-image: url(./325568839-240x180.jpeg);
+    cursor: pointer;
+}
+
+.container32{
+    height: 200px;
+    background-color: red;
+    width: 20%;
+    margin-left: 560px;
+    margin-top: -200px;
+    list-style: none;
+    background-image: url(./325568894-240x180.jpeg);
+    cursor: pointer;
+}
+
+.container33{
+    height: 200px;
+    /* background-color: red; */
+    width: 20%;
+    margin-left: 830px;
+    margin-top: -200px;
+    list-style: none;
+    background-image: url(./320143991-240x180.jpeg);
+    cursor: pointer;
+    }
+    
+
+    .container34{
+        height: 200px;
+        background-color: red;
+        width: 20%;
+        list-style: none;
+        background-image: url(./325568875-240x180.jpeg);
+        cursor: pointer;
+        
+    }
+
+    .container35{
+        height: 200px;
+        background-color: red;
+        width: 20%;
+        margin-left: 280px;
+        margin-top: -200px;
+        list-style: none;
+        background-image: url(./325568846-240x180.jpeg);
+        cursor: pointer;
+    }
+
+    .container36{
+        height: 200px;
+        background-color: red;
+        width: 20%;
+        margin-left: 560px;
+        margin-top: -200px;
+        list-style: none;
+        background-image: url(./325568836-240x180.jpeg);
+        cursor: pointer;
+    }
+
+    .container37{
+        height: 200px;
+        background-color: red;
+        width: 20%;
+        margin-left: 830px;
+        margin-top: -200px;
+        list-style: none;
+        background-image: url(./318826130-240x180.jpeg);
+        cursor: pointer;
+    }
+    .done{
+        /* background-color: red; */
+        height: 200px;
+        width: 70%;
+        background-image: url(./hello\ bhai.jpeg);
+        margin-top: 50px;list-style: none;background-repeat: no-repeat;
+        margin-left: 3%;
+
+
+
+    }   
+
+    .done1{
+        margin-left: 50%;
+       
+        
+    }
+    
+    .hello{
+
+        height: 200px;
+        width: 25%;
+        
+        list-style: none;
+        background-image: url(./download\ \(1\).png);
+        background-repeat: no-repeat;
+        margin-left: 75%;
+        margin-top: -300px;
+    }
+
+    .hello2{
+        
+        height: 300px;
+        width: 30%;
+        
+        list-style: none;
+        background-image: url(./google\ play.png);
+        background-repeat: no-repeat;
+        margin-left: 70%;
+        margin-top: -180px;
+    }
+    
+    .hello3{
+        
+        height: 200px;
+        width: 25%;
+        
+        list-style: none;
+        background-image: url(./explore.png);
+        background-repeat: no-repeat;
+        margin-left: 74%;
+        margin-top: -150px;
+    }
+   .container44{
+    height: 40px;
+    width: 100%;
+    background-color:#002f34;
+    color: white;
+    
+    
+   }
